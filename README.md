@@ -17,7 +17,7 @@ CSS
 JavaScript
 PHP  
 
-Ferramentas:
-Git
-VS Code
-
+Projetos:
+X-Men
+Uma página simples que fiz durante uma semana, usando HTML/CSS/JS
+https://nycolastar.github.io/x-men/
