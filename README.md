@@ -1,4 +1,4 @@
-##Olá, eu sou Nycolas!
+# Olá, eu sou Nycolas!
 Bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor iniciante que está começando a explorar o mundo da programação. Aqui você encontrará meus projetos e estudos enquanto aprendo e cresço como desenvolvedor.
 Sobre mim
 Estou aprendendo: C, C#, HTML, CSS, JavaScript e PHP.  
