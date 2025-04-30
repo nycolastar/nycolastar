@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá, eu sou Nycolas!
+Bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor iniciante que está começando a explorar o mundo da programação. Aqui você encontrará meus projetos e estudos enquanto aprendo e cresço como desenvolvedor.
+Sobre mim
+Estou aprendendo: C, C#, HTML, CSS, JavaScript e PHP.  
 
-<!--
-**nycolastar/nycolastar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Objetivo: Desenvolver minhas habilidades em desenvolvimento web e backend, além de explorar projetos em C/C# para aplicações desktop e sistemas.  
 
-Here are some ideas to get you started:
+Foco atual: Criar projetos simples para praticar e construir um portfólio.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias e Ferramentas
+Linguagens e tecnologias que estou estudando e usando:  
+Linguagens:
+C
+C#
+HTML
+CSS
+JavaScript
+PHP  
+
+Ferramentas:
+Git
+VS Code
+
